@@ -1,0 +1,1 @@
+export { default as ChangeDefaultAvatar } from './ChangeDefaultAvatar';
